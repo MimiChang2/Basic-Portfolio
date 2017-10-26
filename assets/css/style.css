@@ -63,7 +63,7 @@ h1 {
 .connect {
     border: 2px solid black;
     float: left;
-    width: 17%;
+    width: 20%;
     color: #4aaaa5;
     font-size: 30px;
     font-family: Georgia;
@@ -125,7 +125,7 @@ h3 {
 #portbox1 {
     float: left;
     background: grey;
-    width: 25%;
+    width: 20%;
     color: white;
     font-size: 20px;
 }
@@ -133,7 +133,7 @@ h3 {
 #portbox2 {
     float: left;
     background: white;
-    width: 33%;
+    width: 20%;
     color: black;
     font-size: 20px;
 }
@@ -141,7 +141,7 @@ h3 {
 #portbox3 {
     float: left;
     background: grey;
-    width: 33%;
+    width: 20%;
     color: black;
     font-size: 20px;
 }
@@ -149,7 +149,7 @@ h3 {
 #portbox4 {
     float: left;
     background: white;
-    width: 33%;
+    width: 20%;
     color: black;
     font-size: 20px;
 }
