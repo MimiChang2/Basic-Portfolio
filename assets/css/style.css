@@ -126,32 +126,35 @@ h3 {
     float: left;
     background: grey;
     width: 20%;
-    color: white;
-    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 50px;
+
 }
 
 #portbox2 {
     float: left;
     background: white;
     width: 20%;
-    color: black;
-    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 50px;
+
 }
 
 #portbox3 {
     float: left;
     background: grey;
     width: 20%;
-    color: black;
-    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 50px;
+
 }
 
 #portbox4 {
     float: left;
     background: white;
     width: 20%;
-    color: black;
-    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 50px;
 }
 
 body {
